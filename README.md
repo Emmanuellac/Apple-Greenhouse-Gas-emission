@@ -39,6 +39,10 @@ Potential Challenges:
 Identifying potential obstacles that may hinder Apple's path to achieving net-zero emissions by 2030 is crucial for proactive risk management. These challenges could range from technological barriers to external factors such as regulatory changes or supply chain complexities. Recognizing and addressing these challenges promptly is essential for ensuring the feasibility of Apple's sustainability roadmap.
 
 Recommended Analysis;
+- How much has Apple reduced its emissions from 2015 to 2022?
+- How does this affect their revenue and market cap trend in the same period?
+- which area has seen the most improvement and what about the least? 
+- Is Apple on track to meet its 2030 net zero goals for emissions?
 
 
 Insights:
